@@ -1,0 +1,15 @@
+6
+5
+1 1 29400.00 2015 Toyota Tacoma
+1 2 31700.00 2012 BMW 6Series
+1 5 41700.00 2016 Ford Mustang
+2 1 31000.00 2017 BMW X1
+2 3 14300.00 2015 Nissan Altima
+2 5 17900.00 2016 Dodge Challenger
+3 2 26000.00 2017 Mini Convertible
+3 3 39600.00 2017 Chevy Tahoe
+4 1 15100.00 2014 Chevy Volt
+4 2 24400.00 2017 Toyota Rav4
+4 3 30400.00 2017 Subaru Outback
+4 4 72900.00 2017 Tesla Model-S
+4 5 43500.00 2016 Porsche Cayenne
